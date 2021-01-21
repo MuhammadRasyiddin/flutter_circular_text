@@ -9,7 +9,7 @@ enum StartAngleAlignment { start, center, end }
 class TextItem {
   /// Text
   final Text text;
-
+  //
   /// Space between characters
   final double space;
 
